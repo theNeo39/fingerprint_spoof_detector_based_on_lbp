@@ -1,0 +1,5 @@
+test/live/
+test/spoof/
+train/live/
+train/spoof/
+*.png

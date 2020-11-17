@@ -1,6 +1,6 @@
-# Fingerprint-Spoof-Detector-based-on-LBP
+# **Fingerprint-Spoof-Detector-based-on-LBP**
 
-# Implementation:
+## **Implementation:**
 
 1.	Conversion of each image into grayscale before we extract the LBP features.
 2.	Extraction of LBP features from the LocalBinaryPattern implementation found in scikit-image.
@@ -9,17 +9,17 @@
 5.	Best parameters fitted to our model.
 6.	We can see the result our model based on our selected performance metrics.
 
-# Performance Metrics:
+## **Performance Metrics:**
 1. Accuracy
 2. Precision
 3. Recall
 4. Confusion matrix
 
-# Programming/Libraries:
+## **Programming/Libraries:**
 1. Python
 2. opencv
 3. sklearn
 
-# References:
-1. https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/
-2. https://scikit-learn.org/
+## **References:**
+1. [pyimagesearch](https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/)
+2. [scikit-learn](https://scikit-learn.org/)
